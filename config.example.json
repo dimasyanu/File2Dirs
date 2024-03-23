@@ -1,0 +1,7 @@
+{
+    "app_settings": {
+        "is_one_time": false,
+        "standby_duration": 3,
+        "watch_directory": "C:\\Users\\<user>\\Pictures"
+    }
+}
